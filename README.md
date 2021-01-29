@@ -4,7 +4,7 @@ Home automation system with autonomous device identification
 #Introduction
 
 Nowadays home automation is tending all over the world. Home automation system represent automation sensation and electronic control of devices to leads to ease and comfort lifestyle for each member at home. 
-According to Figure 1.1, Home automation market rapid growth in the past decade. In 2023, there have 85 billion markets in the industry. But there are few solutions available in the market. But there are few solutions available in the market and also there are number of can be identify. In the market, have a good market opportunity to success.
+Home automation market rapid growth in the past decade. In 2023, there have 85 billion markets in the industry. But there are few solutions available in the market. But there are few solutions available in the market. The home automation industry has a good market opportunity to succeed.
  
 In-home automation, electronic and electrical environments with respect to this context is an environment that consists of apparatuses such as Tv, HVAC system, radios, motors, AC systems, lighting systems, etc. A remotely accessible environment can assess appliances and can easily control appliances using a web interface.
 The main issues of the home automation system are we can't directly identify devices using system. always need human interaction to assign devices to the system. the system cannot identify a frequent pattern of the user, user need to do same thing, again and again, every day. and also, the system should communicate with user friendly way, button click in not a good way.
