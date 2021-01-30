@@ -106,9 +106,13 @@ The sensors in a system are what receives the data input, and they may vary depe
 Device called smart plug is created to detect the power consumption from each device. And the smart plug identifies each device using machine learning techniques and classifies data for further analysis. There are many researches done to detect electrical devices in real-time and some different researches were done to optimize and predict power consumption.
 Smart plug consists of the voltage sensor, current sensor WIFI sensor, and the Arduino board. Voltage sensor and current sensor capture the changes in power. Arduino board process data and send it to API using the WIFI model.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SupunRandunu/Final-year-reserch-project/blob/master/img/IMG_20201109_132046.jpg)
+
+![alt text](https://github.com/SupunRandunu/Final-year-reserch-project/blob/master/img/Circuit%20Diagram.png)
 
 #Voice recognition system
 
 The Voice recognition system is an essential subsystem of this home automation system. This system enables the user to execute commands through the voice. 
 Proprietary approach enable user to use closed source software to develop the system. User could experience high performance and accurate system because of the advance algorithm and powerful servers. There are some advantages and disadvantages also. 
+
+![alt text](https://github.com/SupunRandunu/Final-year-reserch-project/blob/master/img/mobile%20ui.png)
